@@ -38,7 +38,7 @@ npm start
 ### Saved Books page
 ![Image](./images/2.PNG)
 
-### Nook Notes modal
+### Book Notes modal
 ![Image](./images/3.PNG)
 
 ## Technologies & Tools
