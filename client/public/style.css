@@ -1,0 +1,12 @@
+img{
+    width: 150px;
+    height: 200px;
+}
+
+.container-fluid{
+    width: 95% !important;
+}
+
+.delbook{
+    background-color: crimson;
+}
